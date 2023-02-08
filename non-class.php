@@ -6,11 +6,11 @@ require_once('Sub_class.php');
 ?>
 
 <?php
-require_once('program.php');
+require_once('programs.php');
 ?>
 
 <?php
-require_once('course.php');
+require_once('courses.php');
 ?>
 
 
