@@ -1,6 +1,6 @@
 <?php
 
-class Students {
+class Student {
         private $id;
         private $fname;
         private $image;
